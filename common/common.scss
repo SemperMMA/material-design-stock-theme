@@ -1,6 +1,6 @@
 //use Roboto font
 html {
-  font-family: "Roboto", sans-serif;
+  font-family: "Nunito", sans-serif;
   font-weight: 400;
 }
 
@@ -75,4 +75,10 @@ body textarea {
 
 .popup-menu .btn {
   box-shadow: none;
+}
+
+// CSS Adjustments
+
+.btn-flat .d-icon {
+    color: #c3c3c3 !important;
 }
